@@ -1,0 +1,24 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkjammula/node-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkjammula/node-express/issues"
+  },
+  "homepage": "https://github.com/nkjammula/node-express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.0"
+  }
+}
